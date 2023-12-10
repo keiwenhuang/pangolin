@@ -22,8 +22,8 @@
 #  endif
 #endif
 
-#include <Eigen/Core>
-#include <Eigen/SparseCore>
+#include </opt/homebrew/Cellar/eigen/3.4.0_1/include/eigen3/Eigen/Core>
+#include </opt/homebrew/Cellar/eigen/3.4.0_1/include/eigen3/Eigen/SparseCore>
 
 #if defined(_MSC_VER)
 #  pragma warning(push)

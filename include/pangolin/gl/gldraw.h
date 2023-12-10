@@ -39,8 +39,8 @@
 #endif
 
 #ifdef USE_EIGEN
-#include <Eigen/Core>
-#include <Eigen/src/Geometry/AlignedBox.h>
+#include </opt/homebrew/Cellar/eigen/3.4.0_1/include/eigen3/Eigen/Core>
+#include </opt/homebrew/Cellar/eigen/3.4.0_1/include/eigen3/Eigen/src/Geometry/AlignedBox.h>
 #endif // USE_EIGEN
 
 namespace pangolin

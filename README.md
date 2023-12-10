@@ -35,7 +35,7 @@ git clone https://github.com/uoip/pangolin.git
 cd pangolin
 mkdir build
 cd build
-cmake ..
+cmake -DBUILD_PANGOLIN_FFMPEG=OFF ..
 make -j8
 cd ..
 python setup.py install
